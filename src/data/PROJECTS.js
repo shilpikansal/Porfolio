@@ -11,7 +11,7 @@ const PROJECTS=[
     image: weatherApp,
     description:"React app to find the weather conditions like temperature, humidity, visibility and more a given city",
     tech: "React.js",
-    link:'https://github.com/shilpikansal/Weather_Appl1'
+    link:'http://react-weather-app-shilpi.s3-website.us-east-2.amazonaws.com'
   },
   {
     id:2,
@@ -19,7 +19,7 @@ const PROJECTS=[
     image: dashboardApp,
     description:"This is a dashboard application which logs in a user and lets the user manage the list of daily tasks by adding/deleting or editing the current status of any task.",
     tech:"React.js, Redux, Spring Boot, Java",
-    link:'https://github.com/shilpikansal/Dashboard-Application'
+    link:'http://dashboard-shilpikansal.us-east-1.elasticbeanstalk.com/'
   },
   {
     id:3,
